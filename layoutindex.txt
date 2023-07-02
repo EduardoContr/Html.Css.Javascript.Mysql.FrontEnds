@@ -1,0 +1,171 @@
+http://www.shouldiblockit.com/index.aspx
+
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css" media="screen">
+body {
+text-align: center;
+background: #B0BVFC2;
+color: #444;
+}
+#container {
+margin: 0 auto;
+text-align: left;
+background: #fff url("tileback.png");
+width: 700px;
+}
+h1 {
+background: #D36832;
+}
+#nav {
+float: left;
+width: 136px;
+display: inline;
+margin-left: 20px;
+padding: 15px 1;
+}
+#nav ul {
+margin: 0;
+padding:0 ;
+text-align: right;
+list-style-type: none;
+}
+#nav li
+{
+background: url("tileback.png") .4em;
+}
+ul#topnav
+{
+margin-left: 125;
+padding-left: 10px;
+float: left;
+width: 1000;
+background: #000000;
+}
+ul#topnav li
+{
+display: inline;
+}
+ul#topnav a
+{
+float: left;
+display: block;
+width: 150;
+border-right: 1px solid #fff;
+padding: .2em 1 em;
+color: #f99410;
+}
+ul#topnav a:hover
+{
+color: #000;
+background: #b36e45;
+}
+#content {
+float: left;
+width: 475px;
+margin-left: 45px;
+padding: 15px 0;
+}
+#footer {
+clear: both;
+font-size: 180%;
+}
+</style>
+<title>Home
+</title>
+
+</head>
+<body>
+<div id="container">
+<h1>Courthouse Jewelers
+</h1>
+<div id="nav">Welcome, Hi, Bienvenido
+<ul>
+
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="#">Portfolio</a></li>
+</ul>
+<img src="ring.jpg" width="235" align="center"><br><br><h3>Courthouse Jewelers</h3><br><br><br><br><h3>Departments<br><h3>
+<ul id="navigation">DEPARTMENTS<li><a href="indexb.php">Sales</a></li><br>
+<li><a href="indexb.php">Service</a></li><br>
+<li><a href="indexb.php">HOURS</a></li><br>
+<li><a href="indexb.php">DIRECTIONS/LOCATION</a></li><br>
+<li><a href="indexb.php">CONTACT</a></li>
+</ul>
+<br><h3><ul>2200 Clarendon Bouelvard<br>Arlington, Virginia  22001 </ul><br>
+
+<h3>The Arlington, Virginia metropolitan area' s <strong>finest</strong> watch sales, batteries replacement, repairs, jewelry and clock retail store!</h3><h4><br>Phone:<br>703.522.3357
+</div>
+<div id="content">
+<h2>
+About Courthouse Jewelers
+</h2>
+<ul id="topnav">DEPARTMENTS-HOME<li><a href="indexb.php">SALES</a></li>
+<li><a href="indexb.php">SERVICE</a></li>
+<li><a href="indexb.php">HOURS</a></li>
+<li><a href="indexb.php">LOCATION</a></li>
+<li><a href="indexb.php">CONTACT</a></li>
+</ul><br>
+<p>
+This jewelry store nestled at Courthouse Metro Plaza behind the Arlington County Library and infront
+of the Amc Movies and beside the Metro at Courthouse Station (Orange Line)
+</p>
+<p>We have been doing business in Arlington, VA for over ten years and are certified in Diamonds,
+and Gemstones.  We have been serving the business and local government community for repeat clientelle
+and new customesrs alike.  
+</p>
+<p>
+<h2>Courthouse Jewelers</h2><h3>in the Courthouse Plaza (not visible from Clarendon Boulevard) where the Courthouse Plaza Metro Escalators and the AMC Theatres are, the Veitch Street Side of 2200 Clarendon Boulevard, Arlington, VA; </h3><br><img src="corthouse.jpg" width="235"><br><strong>  
+<ul>in Arlington, Virginia (VA)</ul></strong> has been serving Arlington, Virginia's loyal customer base for a decade near Rosslyn, Courthouse Metro Station and Clarendon, Ballston, Virginia Square and Crystal City making David Ukritnukun a GIA-Certified Gemstone and Diamond jewelry specialist, (and) the shop owner, super busy! <br> A stone's throw from downtown Washington, D.C., Mclean Virginia (VA), Fairfax, Alexandria and suburban Washington, D.C..  Our customers seek us out for traditional stop-n-go wrist watch repairs and jewelry service, including:  <li>  Battery replacement, </li><li>jewelry cleaning</li><li>bead restringing (pearl)</li><li>casual and designer watch brand sales</li><br>In addition Mr. Ukritnukun has also received certification in
+diamond and platinum expertise knowledge from the Gemological Institute of America (GIA). <br><br><h3>Shop these brands, Kenneth Cole</h3> featuring Transparent and Leather Strap or Swiss-made, <h3>Esq, </h3><h3>Skagen, of Denmark</h3> <h3> Citizen.. </h3>or more.  Visit the online storefront for men's, women's and children's watch preview or buy online (some brands may have more selection in the store so send us your questions).  <br>For a complete list of services and gift ideas we offer, please point and click on the Jewelry, Watches or Services links on the left side of our home web page! 
+
+
+<p>We sell and repair or service your watch, watch battery, jewelry, including cleaning, sizing, restoring and customizing.  We will also change your watch strap, clean the watch to ensure the battery life for it.  Our inventory is inclusive of watches by Citizen, Seiko, Kenneth Cole, Skagen, Armitron, ESQ a division of MOVADO, Walt Disney, Casio, Timex and more.  </p><p>Shop for gold, silver, pearl earrings, necklaces, rings, pendants and precious gemstone jewelry..<br>
+<br><table border="3" width="450">
+</p>
+<img src="Wallpaperhome4.jpg" width="204">
+<img src="ring2.jpg" width="224"></td></tr></table></td><td valign="top"><br><br>
+<img src="Untitled5.jpg" width="215" height="125">
+<img src="Wallpaperhome4.jpg" width="204"><br>
+
+<br><br>-Selection and Gift Ideas! choice gemstone and diamonds.<br>
+BRACELETS, PENDANTS, NECKLACES<br>
+MEN'S FASHIONABLE ACCESSORIES
+<li>CUFF LINKS</Li>
+<li>TIE TACKS</Li>
+<li>TIE BANDS</Li>
+PEWTER TANKARD<li>
+BEER MUG</li>
+CROSS PEN</li>
+EARRINGS</li>
+ENGAGEMENT SETS</li>
+PLATINUM BANDS</Li>
+TITANIUM WEDDING BANDS</Li>
+STAINLESS STEEL DISCOUNT WEDDING BANDS</Li>
+<li>TUNGSTEN CARBIDE BANDS</Li>
+<li>GOLD WEDDING BANDS (14, 18, 20, 24 KT)</Li>
+<li>SILVER</Li>
+<li>CUSTOM DESIGN/SET</Li>
+
+ .. design for jewelery, gifts, and customization, restoration, refurbishing!  Possible with diamond and pearl earrings or bracelets also!  <br>  Our design styles can be integrated with your gemstone and diamonds we choose or that you bring!  <br>  Got questions?  Fill out our form on the next page. ___>>Click for next page</a><br>
+  In addition to supplying complete wedding band<BR> and engagement ring suites, sales, we offer <BR>mounting, design, and assembly of these pieces for you and your loved one.</h4>  Got questions?  Fill out our form on the <strong>Contact Page.
+
+<ul><strong>Courthouse Jewelers</strong> </ul><br>
+<h3>
+Precious Gemstone Jewelry
+
+<h3><a href="diamonds.engagement.jewelry.washington.d.c.arlington.va.php"
+>Gold or Silver Jewelry</a>
+<h3>
+<a href="diamonds.engagement.jewelry.washington.d.c.arlington.va.php
+">
+Contact Us
+</a>
+</div>
+<div id="footer">
+Copyright &copy; Courthouse Jewelers 2012
+</div>
+</div></body>
