@@ -1,0 +1,57 @@
+
+<?php 
+$link = mysql_connect('bobcatcontreras.ipagemysql.com', 'edcontrer', '1979Bates'); 
+if (!$link) { 
+    die('Could not connect: ' . mysql_error()); 
+} 
+echo 'Connected successfully'; 
+mysql_select_db(structure); 
+?> 
+
+with pdo
+
+see below:  
+
+
+$dsn = 'mysql:host=bobcat.contreras.ipage.mysql.com;port=3306;dbname=structure';
+$options = array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8');
+$dbh = new PDO($dsn, 'userName', 'userPassword', $options);
+$dbh->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
+return $dbh;
+cite
+http://sitepop.wordpress.com/2014/07/26/mysql-set-up/
+
+and
+add a try catch error
+
+<?php
+$dsn = 'Mysql:host=bobcat.contreras.ipagemysql.com;dbname=structure'; 
+$username = 'edcontrer';
+$password = '1979Bates';
+
+try {
+$db = new PDO($dsn, $username, $password);
+} catch (PDOException $e) {
+$error_message = $e->getMessage();
+include('database_error.php');
+exit();
+}
+?>
+*************************************************************************************************************
+
+with similar way
+
+$dbh = new PDO('mysql:host=tealdevcom.ipagemysql.com;dbname=$cal1', $user, $pass);
+
+http://stackoverflow.com/questions/7863813/data-not-showing-up-in-mysql
+****************************************************************************************************************
+select
+
+$query = 'SELECT * FROM structure
+WHERE dress = 2;'
+ 
+$products = $dbh->query($query); //products contains the result set
+****************************************************************************************************************
+http://wiki.hashphp.org/PDO_Tutorial_for_MySQL_Developers
+
+<p>Display<? echo $query; ?></p>
