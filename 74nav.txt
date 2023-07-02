@@ -1,0 +1,27 @@
+<head>
+<title>Courthouse Jewelers Batteries Page</title>
+<style type="text/css" media="screen">
+ul#navigation
+{
+margin-left: 0;
+padding-left: 0;
+list-style-type: none;
+}
+ul#navigation a
+{
+display: block;
+background: #036;
+padding: .2em, .5em;
+color: #fff;
+border-bottom: 1px solid #fff; 
+width: 7em;
+}
+</style>
+</head>
+courthouse nav bar
+<ul id="navigation">
+<li><a href="index.php">home</a></li>
+<li><a href="about.php">about</a></li>
+<li><a href="index.php">contact</a></li>
+<li><a href="index.php">services</a></li>
+</ul>
